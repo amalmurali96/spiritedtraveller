@@ -1,0 +1,17 @@
+div{
+    width: 401px;
+    height: 114px;
+}
+.div1{
+    background-color: darkgreen;
+    position: absolute;
+    top: 260px;
+    left: 410px;
+}
+.div2{
+    background-color: rgb(252, 96, 6);
+    
+    position: absolute;
+    left: 0px;
+    bottom: 242px;
+}
